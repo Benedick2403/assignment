@@ -14,7 +14,6 @@
 
 <body class="font-sans bg-gray-100">
 
-  <!-- Navigation -->
   <nav class="bg-gray-800 p-4 text-white fixed w-full">
     <div class="container mx-auto flex justify-between items-center">
       <a href="#" class="text-2xl font-semibold">GeekGears</a>
@@ -25,7 +24,6 @@
     </div>
   </nav>
 
-  <!-- Hero Section -->
   <section class="bg-home-bg bg-cover bg-no-repeat text-white h-screen flex items-center ">
     <div class="container mx-auto text-center">
       <h1 class="text-4xl font-bold mb-4">Welcome to GeekGears</h1>
